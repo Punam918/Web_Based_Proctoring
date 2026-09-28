@@ -36,7 +36,6 @@ OpenCV’s YOLO object detector to identify instances of banned items such as mo
 
 ![object-detection-2](Images/p2.jpg)
 
-![object-detection-3](Images/image1.jpg)
 
 
 
